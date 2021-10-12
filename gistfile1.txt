@@ -1,0 +1,11 @@
+// pseudocode for doing Laundry
+1.	Get all dirty clothes from Laundry Basket. 
+2.	Put all clothes in Washing machine. 
+3.	Add Washing Liquid to washing machine. 
+4.	Select a washing program on washing machine.
+5.	Turn on the washing machine
+6.	Set timer in case washing machine does not have timer to alert you of its time of finish
+7.	Get Clothes from washing machine after done. 
+8.	Leave clothes to dry in Balcony until dry. 
+9.	Gather dried clothes
+10.	Put them back in wardrobe/drawyers
